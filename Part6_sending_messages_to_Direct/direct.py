@@ -517,5 +517,5 @@ class InstagramBot():
 
 my_bot = InstagramBot(username, password)
 my_bot.login()
-my_bot.send_direct_message(direct_users_list, "Hey! How's it going?", "E:\PyCharm all projects\Instagram bot\Part6_sending_messages_to_Direct\img1.jpg")
+my_bot.send_direct_message(direct_users_list, "Hey! How's it going?", "E:\PyCharm all projects\Instagram bot\Part6_sending_messages_to_Direct\img2.jpg")
 #my_bot.get_all_followers("https://www.instagram.com/evgenii_ponasenkov/")
